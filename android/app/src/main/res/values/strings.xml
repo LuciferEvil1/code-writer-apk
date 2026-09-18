@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Code Writer</string>
+    <string name="title_activity_main">Code Writer</string>
+    <string name="package_name">com.ahkeem.codewriter</string>
+    <string name="custom_url_scheme">com.ahkeem.codewriter</string>
+</resources>
